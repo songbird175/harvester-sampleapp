@@ -1,2 +1,2 @@
 # harvester-sampleapp
-Sample app repository for https://github.com/HALtheWise/baby-harvester
+This is a sample timebox app written in jQuery that demonstrates the capabilities of a Baby Harvester tool. To learn more about the Baby Harvester, read the wiki for [this repo](https://github.com/HALtheWise/baby-harvester). Specific information on writing your own sample app can be found on [this page](https://github.com/HALtheWise/baby-harvester/wiki/Writing-Apps-that-run-on-Harvesters) of the wiki.
