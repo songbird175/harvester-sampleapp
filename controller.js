@@ -15,7 +15,7 @@ function submitted() {
 		    "Authorization": "Basic " + btoa(USERNAME + ":" + PASSWORD)
 		  },
 		  data: JSON.stringify({
-		  	'message':'https://halthewise.github.io/baby-harvester/sampleapp/timer.html'+
+		  	'message':'https://songbird175.github.io/harvester-sampleapp/timer.html'+
 		  		'?duration='+duration+'&name='+USERNAME+'&token='+PASSWORD
 		  }),
 	      'processData': false,
