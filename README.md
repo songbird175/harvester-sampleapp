@@ -1,7 +1,6 @@
-# harvester-sampleapp
+# Baby Harvester: Timebox Sample App (jQuery)
 
-This repository implements a sample app written in client-side jQuery for the Baby Harvester system.
-Full documentation for creating Baby Harvester apps is available [here](https://github.com/HALtheWise/baby-harvester/wiki/Writing-Apps-that-run-on-Harvesters), and more information about the project is [here](https://github.com/HALtheWise/baby-harvester/wiki)
+This is a sample timebox app written in jQuery that demonstrates the capabilities of a Baby Harvester tool. To learn more about the Baby Harvester, read the wiki for [this repo](https://github.com/HALtheWise/baby-harvester). Specific information on writing your own sample app can be found on [this page](https://github.com/HALtheWise/baby-harvester/wiki/Writing-Apps-that-run-on-Harvesters) of the wiki.
 
 This sample app implements a "timebox" functionality, where a user can request that a countdown timebox of a specified duration be displayed on the Baby Harvester screen. The interface for the user to make this request is contained in `controller.html` and `controller.js`, and includes requesting the authentication token from the user and using it for authentication to the API.
 
