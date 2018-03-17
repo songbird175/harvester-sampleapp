@@ -1,3 +1,5 @@
+var API_BASE = "https://baby-harvester-gateway.herokuapp.com";
+
 function submitted() {
 	console.log('Submitted!')
 
@@ -8,7 +10,7 @@ function submitted() {
 	$.ajax
 		({
 		  type: "POST",
-		  url: "https://baby-harvester-gateway.herokuapp.com/display/url",
+		  url: API_BASE + "/display/url",
 		  dataType: 'json',
 		  async: true,
 		  headers: {
